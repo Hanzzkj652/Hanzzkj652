@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**zkj123520/ZKJ123520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # ฅ^•ﻌ•^ฅ 欢迎来到我的代码星球 ✨
 
 <img src="https://example.com/your-二次元-image.jpg" width="300" align="right" alt="看板娘">
@@ -39,4 +36,4 @@ while True:
     查文档()          # 百度/CSDN/StackOverflow
     问大佬()          # "这个报错什么意思呀 QAQ"
     成功运行()        # 开心到转圈圈 (ฅ´ω`ฅ)
--->
+
