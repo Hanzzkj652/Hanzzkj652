@@ -2,7 +2,7 @@
 
 # ฅ^•ﻌ•^ฅ 欢迎来到我的代码星球 ✨
 
-<img src="https://example.com/your-二次元-image.jpg" width="300" align="right" alt="看板娘">
+<img src="https://picture.gptkong.com/20250315/22089dfdbb24984424bae918674bfc5a2c.jpg" width="300" align="right" alt="看板娘">
 
 **📍 常州工学院 | 🌱 萌新开发者成长日记**  
 "代码世界的大门刚刚打开，这个仓库记录我的每一小步~"
