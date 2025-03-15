@@ -2,7 +2,7 @@
 
 # ฅ^•ﻌ•^ฅ 欢迎来到我的代码星球 ✨
 
-<img src="assets/coding_waifu.gif" width="300" align="right" style="border-radius:15px;">
+<img src="assets/coding_waifu.jpg" width="250" align="right" alt="正在努力coding的看板娘~">
 
 **📍 常州工学院 | 🌱 萌新开发者成长日记**  
 > "代码世界的大门刚刚打开，这个仓库记录我的每一小步~"
