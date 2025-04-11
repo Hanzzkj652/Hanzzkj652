@@ -9,7 +9,7 @@
 > 
 > "「あきらめたらそこで試合終了ですよ」—— 就算报错也要继续战斗！(๑•̀ㅂ•́)و✧"
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hanzzkj652&show_icons=true&theme=radical&hide_title=true)
 
 ---
 
