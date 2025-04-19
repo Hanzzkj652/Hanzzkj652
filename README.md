@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Hanzzkj652 👋
 
 # ฅ^•ﻌ•^ฅ 欢迎来到我的代码星球 ✨
 
@@ -13,33 +13,35 @@
 
 ---
 
-## 🎯 个人名片
+## 🚀 关于我
+我是一名充满热情的开发者,目前就读于常州工学院，,也是一名CTF初学者,喜欢创造创新的解决方案，深入探索编程的世界。无论是构建 Web 应用程序、探索新技术，还是解决具有挑战性的问题，我都乐在其中。
 
 ![Skill Icons](https://skillicons.dev/icons?i=py,html,md,cpp,vscode,git)
 
-| 🎮 属性        | 📝 描述                          |
-|---------------|---------------------------------|
-| ​​**​称号​**​       | `代码魔法学徒` ✨                 |
-| ​​**​主修​**​       | `通信工程` 📡                     |
-| ​​**​技能树​**​     | `Python` `HTML` `Markdown` `C++`|
-| ​​**​装备​**​       | `VS Code` `Git` `Postman`       |
-| ​​**​兴趣领域​**​   | `Web开发` `数据分析` `动漫项目`   |
+---
+## 🛠️ 技术与工具
+- **编程语言**: JavaScript, Python, C++, Java
+- **框架**: React, Node.js, Flask, Django
+- **工具**: Git, Docker, Kubernetes, VS Code
+- **数据库**: MySQL, MongoDB, PostgreSQL
+- **云服务**: AWS, Azure, Google Cloud
+
+## 🌱 正在学习
+- web开发数据库对接
+- 网络安全
+- Rust 编程语言
+
+## 📈 GitHub 统计
+![Hanzzkj652 的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=Hanzzkj652&show_icons=true&theme=radical)
+
+## 💡 有趣的事实
+- 我喜欢探索开源项目并为社区做贡献。
+- 在不编程的时候，我喜欢徒步旅行、玩游戏和阅读科幻小说。
+
+## 📫 联系我
+- **电子邮件**: [3157576042@qq.com](mailto:3157576042@qq.com)
+
+如果你想合作或者只是想聊聊技术，欢迎随时联系我！
 
 ---
-
-## 🌈 项目陈列柜
-
-### 🚧 进行中项目
-| 项目名          | 技术栈                 | 亮点                          |
-|----------------|-----------------------|------------------------------|
-| [CPPRush](https://github.com/Hanzzkj652/CPPRush) | Python · Requests     | CPP票务自动化系统            |
-| 课程表小程序    | 微信小程序 · CloudBase | 课程提醒与摸鱼模式双形态         |
-| [weiban助手]| Python · Selenium    | 全自动刷课脚本（支持多平台）      |
-
-### 💡 未来企划
-```python
-ideas = [
-    "动漫台词生成器（LSTM+爬虫）", 
-    "宿舍电量监控系统（物联网）",
-    "课程作业GPT助手（FastAPI+LLM）"
-]
+⭐️ 来自 [Hanzzkj652](https://github.com/Hanzzkj652)
