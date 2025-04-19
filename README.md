@@ -32,7 +32,7 @@
 - Rust 编程语言
 
 ## 📈 GitHub 统计
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hanzzkj652&theme=github_dark)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hanzzkj652&theme=radical)
 
 ## 💡 有趣的事实
