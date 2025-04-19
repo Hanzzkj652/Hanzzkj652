@@ -33,6 +33,9 @@
 
 ## 📈 GitHub 统计
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hanzzkj652&theme=github_dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hanzzkj652&theme=radical)
+![Followers](https://img.shields.io/github/followers/Hanzzkj652?style=social)
+![Stars](https://img.shields.io/github/stars/Hanzzkj652?label=Stars&style=social)
 
 ## 💡 有趣的事实
 - 我喜欢探索开源项目并为社区做贡献。
